@@ -1,0 +1,5 @@
+path: "C:/Users/AT/Desktop/yolo12/samples/bottle-dataset"
+train: images/train
+val: images/val
+names:
+  0: bottle

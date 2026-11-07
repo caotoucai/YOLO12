@@ -1,0 +1,32 @@
+[
+  {
+    "image": "C:\\Users\\AT\\Desktop\\yolo12\\samples\\coco128\\images\\train2017\\000000000142.jpg",
+    "split": "val",
+    "bottles": 1
+  },
+  {
+    "image": "C:\\Users\\AT\\Desktop\\yolo12\\samples\\coco128\\images\\train2017\\000000000164.jpg",
+    "split": "train",
+    "bottles": 10
+  },
+  {
+    "image": "C:\\Users\\AT\\Desktop\\yolo12\\samples\\coco128\\images\\train2017\\000000000241.jpg",
+    "split": "train",
+    "bottles": 1
+  },
+  {
+    "image": "C:\\Users\\AT\\Desktop\\yolo12\\samples\\coco128\\images\\train2017\\000000000283.jpg",
+    "split": "val",
+    "bottles": 1
+  },
+  {
+    "image": "C:\\Users\\AT\\Desktop\\yolo12\\samples\\coco128\\images\\train2017\\000000000486.jpg",
+    "split": "train",
+    "bottles": 3
+  },
+  {
+    "image": "C:\\Users\\AT\\Desktop\\yolo12\\samples\\coco128\\images\\train2017\\000000000643.jpg",
+    "split": "train",
+    "bottles": 2
+  }
+]

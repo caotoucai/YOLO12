@@ -1,0 +1,25 @@
+.venv/
+**/bin/
+**/obj/
+.vs/
+__pycache__/
+artifacts/
+models/
+samples/coco128/
+samples/*.zip
+datasets/
+
+# Local Ultralytics settings contain machine paths and may contain API keys.
+Ultralytics/
+*.cache
+*.download
+*.log
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+.DS_Store
